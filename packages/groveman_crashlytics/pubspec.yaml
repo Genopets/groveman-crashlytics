@@ -8,9 +8,10 @@ documentation: https://github.com/kmartins/groveman/tree/main/packages/groveman_
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
+  flutter: '>=2.10.0'
 
 dependencies:
-  firebase_crashlytics: ^2.8.6
+  firebase_crashlytics: 2.8.12
   flutter:
     sdk: flutter
   groveman: ^1.2.1
